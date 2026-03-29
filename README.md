@@ -1,5 +1,16 @@
 # Napwise — Nap Timer & Gentle Wake
 
+```
+        . · * · .
+      ·           ·
+    *    N A P      *
+   ·    W I S E      ·
+    *               *
+      ·    ___    ·
+   ~~~~~  (   )  ~~~~~
+  ~~~~~~~ \___/ ~~~~~~~
+```
+
 A personal Android nap timer built around one idea: waking up shouldn't feel like an emergency.
 
 Instead of a jarring alarm, Napwise eases you out of sleep with a 45-second gradual wake sequence — the screen slowly brightens from deep indigo to warm amber sunrise, audio ramps from a whisper to full volume, and the dismiss button only appears once you've had a moment to surface.
